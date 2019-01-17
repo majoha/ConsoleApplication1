@@ -7,6 +7,7 @@
 int main()
 {
 	//This is a test
+	//Hello, world
 	int temp = 999;
     std::cout << temp; 
 	system("pause");
