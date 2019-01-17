@@ -8,6 +8,7 @@ int main()
 {
 	//This is a test
 	//Hello, world
+	//From within browser
 	int temp = 999;
     std::cout << temp; 
 	system("pause");
